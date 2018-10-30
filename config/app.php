@@ -13,6 +13,17 @@ return [
     |
     */
 
+    'user' => [
+        'first_name' => 'Lenard',
+        'middle_name' => 'Clemente',
+        'last_name' => 'Mangay-ayam',
+        'email' => 'lenard.mangayayam@gmail.com',
+        'password' => 'admin',
+        'type' => App\Conf::ROLE_ADMIN,
+        'image_id' => App\Conf::IMAGE_USER,
+    ],
+
+
     'name' => env('APP_NAME', 'Laravel'),
 
     /*

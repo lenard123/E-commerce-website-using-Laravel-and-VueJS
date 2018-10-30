@@ -3,7 +3,6 @@
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
-use App\Conf;
 
 class CreateImagesTable extends Migration
 {
@@ -16,7 +15,7 @@ class CreateImagesTable extends Migration
     {
         Schema::create('images', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('path')->default(Conf::IMAGE_DEFAULT);
+            $table->string('path');
             $table->timestamps();
         });
     }
