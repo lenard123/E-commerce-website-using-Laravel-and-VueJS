@@ -11,11 +11,11 @@
   },
   "devDependencies": {
     "axios": "^0.18.1",
-    "bootstrap-sass": "^3.3.7",
-    "cross-env": "^5.0.1",
-    "jquery": "^3.5.0",
+    "bootstrap-sass": "^3.4.1",
+    "cross-env": "^5.2.1",
+    "jquery": "^3.5.1",
     "laravel-mix": "^1.0",
-    "vue": "^2.1.10",
-    "vue-router": "^3.0.1"
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.9"
   }
 }
