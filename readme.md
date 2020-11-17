@@ -18,3 +18,6 @@
 In case you may want to edit the front-end Run 'npm install'
 then you can now modify the resource files of the front-end
 then to push the changes Run 'npm run dev'.
+
+## Demo
+Watch the system demo [here](https://youtu.be/A04RHY2YGBo).
