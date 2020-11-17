@@ -1,6 +1,6 @@
 # E-commerce Website
 
-### Setting UP
+## Setting UP
 
 1. Run 'git clone https://github.com/lenard123/E-commerce-website-using-Laravel-and-VueJS E-Commerce'
 2. Run 'cd E-Commerce'
@@ -11,3 +11,10 @@
 7. Run 'php artisan key:generate'
 8. Run 'php artisan storage:link'
 9. Then Finally run 'php artisan serve'
+
+
+## Front End
+
+In case you may want to edit the front-end Run 'npm install'
+then you can now modify the resource files of the front-end
+then to push the changes Run 'npm run dev'.
